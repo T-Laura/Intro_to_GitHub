@@ -1,0 +1,2 @@
+GitHub will be a useful tool in creating a portfolio. You can store various projects on one branch, while having information about yourself on another branch. This will help organize the information that should be seen.
+GitHub also allows going back through projects. You can go back to a previous commit to see how much work is done each time. This can show how quickly you can complete various tasks.
